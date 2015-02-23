@@ -16,7 +16,7 @@ Caffe is a C/C++ deep learning framework made with expression, speed, and modula
 This is a fast C++/CUDA implementation of convolutional (or more generally, feed-forward) neural networks. It can model arbitrary layer connectivity and network depth. Any directed acyclic graph of layers will do. Training is done using the back-propagation algorithm.
 
 ##### [Theano](http://deeplearning.net/software/theano/)
-Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently.
+Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. You can find here a [tutorial](https://github.com/Newmu/Theano-Tutorials).
 
 ##### [Torch](http://torch.ch/) 
 Torch is a scientific computing framework with wide support for machine learning algorithms. It is easy to use and efficient, thanks to an easy and fast scripting language, LuaJIT, and an underlying C/CUDA implementation.
