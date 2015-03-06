@@ -40,6 +40,9 @@ Really useful resources to learn about deep learning ranked after personal impor
 ##### [CS231n Stanford](http://cs231n.github.io/)
 Awesome Stanford Course and Script about ConvNets
 
+##### [CS231n Stanford](http://cs224d.stanford.edu/)
+Awesome Stanford Course and Script about RecurrentNets
+
 ##### [Colahs Blog](http://colah.github.io/)
 Understandable mathematical insights about neural nets
 
